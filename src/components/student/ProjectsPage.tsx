@@ -12,7 +12,7 @@ const ProjectsPage: React.FC = () => {
       category: "web",
       year: "2025",
       type: "Web Application",
-      image: "/src/img/lab.png",
+      image: "img/lab.png",
       description: "Developed a comprehensive web-based Smart Lab Inventory Management system designed to streamline lab operations, track equipment, manage chemicals, and handle equipment requests efficiently. The system provides real-time insights into lab resources and user activities.",
       technologies: ["React", "Node.js", "Tailwind CSS","Express.js", "MongoDB", "JavaScript", "HTML", "CSS"],
       features: [
@@ -37,7 +37,7 @@ const ProjectsPage: React.FC = () => {
       category: "embedded-systems",
       year: "2025",
       type: "Mini Project",
-      image: "/src/img/helmet.jpg",
+      image: "img/helmet.jpg",
       description: "Designed and developed an innovative attachment for traditional safety helmets, capable of detecting accidents and falls, and automatically alerting emergency services with real-time location data. This project enhances wearer safety by providing immediate assistance in critical situations.",
       technologies: ["Arduino Nano", "Accelerometer", "Gyroscope", "GPS Module", "Bluetooth Module", "GSM Module", "Li-ion Battery", "C++"],
       features: [
@@ -61,7 +61,7 @@ const ProjectsPage: React.FC = () => {
       category: "robotics",
       year: "2024",
       type: "Robotic Project",
-      image: "/src/img/13.png",
+      image: "img/13.png",
       description: "Engineered a custom robotic car from scratch for Wayamba University Robotics Competition, combining embedded systems expertise and collaborative problem-solving to excel in competitive line-following challenges.",
       technologies: ["Arduino Mega", "ESP32", "IR Array", "LiDAR", "L298N", "Geared Motors", "C++", "PlatformIO"],
       features: [
