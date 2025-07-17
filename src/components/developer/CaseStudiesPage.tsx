@@ -29,7 +29,7 @@ const CaseStudiesPage: React.FC = () => {
       title: "EduTrack - Smart Lab Inventory Manager",
       client: "University",
       industry: "Education & Research / Laboratory Management",
-      image: "img/lab.png",
+      image: "https://flic.kr/p/2rhgEWa",
       liveUrl: "https://csrk-ma.github.io/EduTrack/",
       challenge: "Educational and research institutions often struggle with inefficient, manual, or fragmented systems for managing lab equipment, chemicals, and material inventory. This leads to lost items, stockouts, extended maintenance downtimes, and difficulties in tracking resource utilization, hindering research and teaching workflows.",
       solution: "Designed and developed 'EduTrack,' a comprehensive web-based Smart Lab Inventory Manager. This platform centralizes all lab resources, automating check-in/out processes, providing real-time inventory levels, sending proactive alerts for low stock or overdue items, and generating insightful reports for efficient resource allocation.",
