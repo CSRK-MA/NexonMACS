@@ -78,7 +78,7 @@ const LandingPage: React.FC = () => {
                 <div className="w-48 h-48 sm:w-56 sm:h-56 mx-auto rounded-full bg-gradient-to-br from-primary-400 via-accent-400 to-purple-500 p-1 shadow-2xl">
                   <div className="w-full h-full rounded-full overflow-hidden border-4 border-dark-800 relative">
                     <img 
-                      src="/src/img/12.png"
+                      src="img/12.png"
                       alt="Shehan R. Kumara"
                       className="w-full h-full object-cover"
                       onError={(e) => {
