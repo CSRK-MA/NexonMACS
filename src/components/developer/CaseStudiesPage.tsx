@@ -8,7 +8,7 @@ const CaseStudiesPage: React.FC = () => {
       title: "Ceylon Clean Pro",
       client: "Clening Service",
       industry: "Business Services",
-      image: "img/cclen.png",
+      image: "https://flic.kr/p/2rhberS",
       liveUrl: "https://csrk-ma.github.io/CeylonClean-Pro/", 
       challenge: "Paradise Bay Resort needed comprehensive deep cleaning services for their 150-room facility after renovation, with strict deadlines before the peak tourist season and maintaining 5-star cleanliness standards.",
       solution: "Deployed a specialized team of 25 trained cleaners using eco-friendly products and advanced cleaning equipment. Implemented a systematic room-by-room approach with quality control checkpoints and flexible scheduling to work around ongoing operations.",
