@@ -38,7 +38,7 @@ const PortfolioPage: React.FC = () => {
       title: "EduTrack - Smart Lab Inventory Manager",
       category: "web-development",
       type: "Web Application",
-      image: "img/lab.png",
+      image: "https://flic.kr/p/2rhgEWa",
       description: "A comprehensive web-based system designed to streamline lab operations and inventory management for educational and research institutions.",
       longDescription: "EduTrack is a full-featured Smart Lab Inventory Management system developed to centralize and automate the tracking of laboratory equipment, chemicals, and materials. It provides a user-friendly dashboard for real-time insights, efficient equipment check-in/out processes, automated alerts, and robust reporting, significantly enhancing operational efficiency and resource utilization in educational and research environments.",
       technologies: ["React", "Node.js","Tailwind CSS", "Express.js", "MongoDB", "JavaScript", "HTML", "CSS", "RESTful API"],
