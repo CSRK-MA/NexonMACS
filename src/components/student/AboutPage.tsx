@@ -71,7 +71,7 @@ const AboutPage: React.FC = () => {
           <div className="flex flex-col lg:flex-row items-center lg:items-start space-y-6 lg:space-y-0 lg:space-x-8">
             <div className="w-40 h-40 sm:w-48 sm:h-48 bg-gradient-to-br from-primary-500 to-accent-500 rounded-xl flex items-center justify-center text-white shadow-2xl overflow-hidden flex-shrink-0">
               <img 
-                src="/src/img/14.jpg"
+                src="img/14.jpg"
                 alt="Shehan R. Kumara"
                 className="w-full h-full object-cover"
                 onError={(e) => {
