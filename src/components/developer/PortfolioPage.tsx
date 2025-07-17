@@ -12,7 +12,7 @@ const PortfolioPage: React.FC = () => {
       title: "Ceylon Clening Pro",
       category: "web",
       type: "Business Website",
-      image: "img/cclen.png",
+      image: "https://flic.kr/p/2rhberS",
       description: "Professional office cleaning service with sanitization, maintenance scheduling, and quality assurance systems.",
       longDescription: "A comprehensive office cleaning solution with eco-friendly products, advanced sanitization protocols, flexible scheduling system, and detailed quality tracking for both daily maintenance and deep cleaning services.",
       technologies: ["Eco-friendly Products", "HEPA Vacuums", "Steam Cleaning", "UV Sanitization", "Quality Control App"],
