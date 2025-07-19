@@ -72,7 +72,7 @@ const PortfolioPage: React.FC = () => {
       title: "SecureVault - Robust Password Manager",
       category: "web-application",
       type: "Security Software",
-      image: "img/securevault.png",
+      image: "https://www.freepik.com/free-ai-image/cybersecurity-concept-illustration_382535091.htm#fromView=search&page=1&position=19&uuid=372586df-68d7-44de-b0a4-3e3905c503eb&query=Digital+password+Vault",
       description: "An intuitive and highly secure application for centralizing password management, offering robust encryption and security insights.",
       longDescription: "SecureVault is a comprehensive web-based (or desktop-based, specify which) application designed to address the challenges of managing multiple digital credentials securely. It features end-to-end encryption for all stored data, categorized item organization (logins, notes, cards, identities), and a unique 'Security Report' that actively identifies and alerts users about weak or reused passwords, promoting stronger digital hygiene. The user-friendly interface ensures seamless navigation and efficient management of sensitive information.",
       technologies: ["React", "Node.js", "Express.js", "MongoDB", "JavaScript", "HTML", "CSS", "RESTful API", "Encryption Libraries", "Authentication"],
