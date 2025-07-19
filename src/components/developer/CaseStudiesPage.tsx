@@ -70,7 +70,7 @@ const CaseStudiesPage: React.FC = () => {
       title: "SecureVault: A Robust Password Management Solution",
       client: "Personal Project",
       industry: "Productivity Software",
-      image: "https://pngtree.com/freebackground/digital-security-futuristic-cyber-lock_16506008.html",
+      image: "https://www.freepik.com/free-ai-image/cybersecurity-concept-illustration_382535091.htm#fromView=search&page=1&position=19&uuid=372586df-68d7-44de-b0a4-3e3905c503eb&query=Digital+password+Vault",
       liveUrl: "https://csrk-ma.github.io/SecureVault/",
       challenge: "Many individuals and organizations struggle with managing numerous passwords securely, often resorting to weak or reused credentials. The challenge was to create an intuitive and highly secure application that centralizes password management, offers robust encryption, and provides insights into password strength.",
       solution: "Developed 'SecureVault,' a desktop or web-based application (specify if it's desktop, web, or both) for secure password storage and management. Key features include end-to-end encryption, categorized item storage (logins, notes, cards, identities), a 'Security Report' for identifying weak passwords, and a user-friendly interface for easy access and organization of sensitive data.",
